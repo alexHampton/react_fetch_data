@@ -1,8 +1,9 @@
 import React from 'react'
+import './DataButton.css'
 
-const DataButton = ({ name, setCurrentData }) => {
+const DataButton = ({ name, currentDataType, setCurrentDataType }) => {
   return (
-    <button onClick={() => setCurrentData(name)}>{name}</button>
+    <button className={currentDataType === name ? 'DataButton DataButton-selected' : 'DataButton'}  onClick={() => setCurrentDataType(name)}>{name}</button>
   )
 }
 
