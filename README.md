@@ -1,5 +1,7 @@
 ## React challenge to fetch and display data
 Uses jsonplaceholder.typicode.com to GET data
+maps over the data to display it 
+
 ## Setup
 To run the app locally, run
 - npm install (to install dependencies)
