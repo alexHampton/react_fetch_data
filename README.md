@@ -7,7 +7,7 @@ To run the app locally, run
 
 ### Current version
 
-![Gif of the app in action.](screenshots.ss02.gif)
+![Gif of the app in action.](screenshots/ss02.gif)
 
 ### Previous version
 
