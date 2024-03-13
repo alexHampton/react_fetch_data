@@ -5,4 +5,10 @@ To run the app locally, run
 - npm install (to install dependencies)
 - npm start (to run react)
 
-![Gif of the app in action.](screenshots/ss01.gif)
+### Current version
+
+![Gif of the app in action.](screenshots.ss02.gif)
+
+### Previous version
+
+![Gif of the app perviously as a list.](screenshots/ss01.gif)
