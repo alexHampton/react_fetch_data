@@ -1,3 +1,3 @@
-.DataList li {
-    margin-bottom: 1rem;
+.DataList td {
+    border: 1px solid #000;
 }
